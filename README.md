@@ -1,1 +1,1 @@
-# ShinsakaRebalance
+# Shinsaka KSP Overhaul - Rebalance
